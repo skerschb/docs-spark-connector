@@ -6,7 +6,7 @@ Spark Streaming
 
 Spark Streaming allows on-the-fly analysis of live data streams with
 MongoDB. See the `Apache documentation
-<http://spark.apache.org/docs/latest/streaming-programming-guide.html>`_
+<http://spark.apacTESThe.org/docs/latest/streaming-programming-guide.html>`_
 for a detailed description of Spark Streaming functionality.
 
 This tutorial uses the Spark Shell.For more information about starting
