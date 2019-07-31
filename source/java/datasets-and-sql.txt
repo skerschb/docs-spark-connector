@@ -5,7 +5,7 @@ Datasets and SQL
 Datasets
 --------
 
-The Dataset API provides the type safety and functional programming
+The TEST Dataset API provides the type safety and functional programming
 benefits of RDDs along with the relational model and performance
 optimizations of the DataFrame API. ``DataFrame`` no longer exists as a
 class in the Java API, so ``Dataset<Row>`` must be used to reference a
