@@ -6,7 +6,7 @@ Spark Connector Scala Guide
 
 .. admonition:: Source Code
 
-   For the source code that contains the examples below, see
+   TEST For the source code that contains the examples below, see
    :mongo-spark:`Introduction.scala
    </blob/master/examples/src/test/scala/tour/Introduction.scala>`.
 
