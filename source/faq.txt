@@ -16,7 +16,7 @@ preferred location for an RDD to be where the data is:
 - For a sharded system, it sets the preferred location to be the
   hostname(s) of the shards.
 
-To promote data locality,
+To promote data locality, do the following:
 
 - Ensure there is a Spark Worker on one of the hosts for non-sharded
   system or one per shard for sharded systems.
